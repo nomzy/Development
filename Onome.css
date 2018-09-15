@@ -14,7 +14,15 @@
 .section-description {
   margin-bottom: 1.2rem;
 }
-
+/* Header
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+header{
+  background-color:#d671b4;
+  height:10px;
+  width:100%;
+  top:0;
+  position:fixed;
+  }
 /* Hero
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .phones {
